@@ -8,8 +8,6 @@ def enReverseCipher(txt):
   print(encrypted)
 
 
-enReverseCipher("Huitzi")
-
 def deReverseCipher(txt):
   
   decrypted = ""
@@ -19,4 +17,3 @@ def deReverseCipher(txt):
     i = i - 1
   print(decrypted)
 
-deReverseCipher("iztiuh")
